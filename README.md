@@ -16,6 +16,6 @@ React
 
 ![note-app](https://user-images.githubusercontent.com/54445396/152778746-f0275daf-73e4-46ff-8cc2-c3839d8417a5.gif)
 
-## How to install it
+## How to launch it
 
 npm start
